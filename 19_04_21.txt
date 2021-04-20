@@ -1,0 +1,19 @@
+19/04/2021
+_____________________
+
+
+se realizo varias secciones en la plataforma de Discord.
+
+-donde se analizo la funcion de cada circuito y como trabajan cada uno para escoger el más viable.
+
+-empezar a proponer en la elaboración del codigo.
+
+-en estas mismas secciones se planteo varias soluciones para imprimir los caracteres como objetivo.
+
+-se creo un circuito con transistores tomandolo como prototipo en caso de aprovación de la misma.
+
+-se hizo un trabajo de investigación en la sección.
+
+-se analizo si al ejecutar el circuito no  hubiera problemas encendiendo todos los leds, se modico el 
+circuito pasando de 16 resistencias a 8 y se organizo en la proto-board para mayor orden.
+
