@@ -34,3 +34,19 @@ función que nos permita dar solución al problema de los patrones que se deben 
 para que sea mucho más fácil desarrollar el Código y no tener que ingresar tantos
 números para un solo patron, y en vez de ingresar 64 valores se ingresen solo 8.
 
+
+21/04/2021
+_______________________
+
+
+-Se abandono la propuesta de trabajar con el circuito con 2 shift integrados.
+
+-Encontramos la dificultad para programar el circuito que se iba a implementar con los dos shift
+ integrados; por lo cual tomamos la decisión de trabajar con el circuito con 8 shift integrados, 
+ en vista que encontramos, que los patrones se desarrollar con más facilidad, solo empujando unos y ceros.
+
+-No habiamos seguido con la prueba con el circuito de 8 shifts, debido a que no se había encontrado una solución a nuestro problema, pero al ver que no podemos trabajar con la función ShiftOut nos tocó retomar este proyecto, que al inicio también habíamos desarrollado. Para probar nuevos métodos y darle una pronta solución a nuestro problema.
+
+-Se inicio con el desarrollo del algoritmo y con el planteamiento de algunos de los patrones que vamos a dejar establecidos para el usuario.
+
+
