@@ -1,0 +1,52 @@
+﻿19/04/2021
+_____________________
+
+
+se realizo varias secciones en la plataforma de Discord.
+
+-donde se analizo la funcion de cada circuito y como trabajan cada uno para escoger el más viable.
+
+-empezar a proponer en la elaboración del codigo.
+
+-en estas mismas secciones se planteo varias soluciones para imprimir los caracteres como objetivo.
+
+-se creo un circuito con transistores tomandolo como prototipo en caso de aprovación de la misma.
+
+-se hizo un trabajo de investigación en la sección.
+
+-se analizo si al ejecutar el circuito no  hubiera problemas encendiendo todos los leds, se modico el 
+circuito pasando de 16 resistencias a 8 y se organizo en la proto-board para mayor orden.
+
+
+20/04/2021
+_____________________
+
+
+-se investigó como se podían ingresar patrones para que solo alumbren los leds necesarios.
+
+-También se analizó cual es la respectivo funcionamiento de la función shiftOut, debido que en la
+ investigación de cómo formar las letras y patrones muchos ejemplos la utilizan.
+
+-El fin de revisar la función shiftOut es con el fin de que podamos implementar nuestra propia
+función que nos permita dar solución al problema de los patrones que se deben formar.
+
+-los patrones entran en filas de 1 y 0 pero los interpretan en números reales,
+para que sea mucho más fácil desarrollar el Código y no tener que ingresar tantos
+números para un solo patron, y en vez de ingresar 64 valores se ingresen solo 8.
+
+
+21/04/2021
+_______________________
+
+
+-Se abandono la propuesta de trabajar con el circuito con 2 shift integrados.
+
+-Encontramos la dificultad para programar el circuito que se iba a implementar con los dos shift
+ integrados; por lo cual tomamos la decisión de trabajar con el circuito con 8 shift integrados, 
+ en vista que encontramos, que los patrones se desarrollar con más facilidad, solo empujando unos y ceros.
+
+-No habiamos seguido con la prueba con el circuito de 8 shifts, debido a que no se había encontrado una solución a nuestro problema, pero al ver que no podemos trabajar con la función ShiftOut nos tocó retomar este proyecto, que al inicio también habíamos desarrollado. Para probar nuevos métodos y darle una pronta solución a nuestro problema.
+
+-Se inicio con el desarrollo del algoritmo y con el planteamiento de algunos de los patrones que vamos a dejar establecidos para el usuario.
+
+
