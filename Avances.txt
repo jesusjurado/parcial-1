@@ -49,4 +49,17 @@ _______________________
 
 -Se inicio con el desarrollo del algoritmo y con el planteamiento de algunos de los patrones que vamos a dejar establecidos para el usuario.
 
+22-04-2021
+_________________________
 
+-Se avanzo en el codigo
+
+-Se realizo el informe en gran parte.
+
+-Se Cambio los patrones de 8*8, a patrones mas compactos de 1*8, esto se hizo pasando de numeros binarios que representaban cada fila a numero decimal, con el fin de que el codigo sea mas organizado y poder utilizar punteros , con esta matriz.
+
+- se termino de organizar unas conecciones del circuito que habia que corregir.
+
+-Tambien se creo el codigo para que el usuario cree su propio patron, para pasar el decimal a numero binario. 
+
+ 
