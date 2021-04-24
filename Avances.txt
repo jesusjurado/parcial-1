@@ -62,4 +62,14 @@ _________________________
 
 -Tambien se creo el codigo para que el usuario cree su propio patron, para pasar el decimal a numero binario. 
 
+23/04/2021
+______________________________
+
+- Se termino el desarrollo del codigo, dandole los retoques finales, para que quedara lista para ser ejecutado por el usuario. 
+
+-Se termino la realizacion del informe final.
+
+-Se hizo la respectiva grabacion del video, con la explicacion del circuito, el funcionamiento, y el codigo fuente.
+
+-se procedio a entregar el proyecto.
  
